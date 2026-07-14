@@ -14,11 +14,11 @@ $ git submodule update --init --depth 1
 
 [config/_default/languages.en.toml](config/_default/languages.en.toml)
 
-- replace `mohan43u.github.io/hugo-test` with your own url like `yourgithubaccount.github.io/yourforkedrepo` throughout this following file.
+- Replace `mohan43u.github.io/hugo-test` with your own url like `yourgithubaccount.github.io/yourforkedrepo` throughout this following file.
 
 [.github/workflows/pages.yml](.github/workflows/pages.yml)
 
-- remove following two files
+- Remove following two files
 
 [content/posts/2026/first.md](content/posts/2026/first.md)\
 [content/posts/2026/second.md](content/posts/2026/second.md)
@@ -29,7 +29,7 @@ $ git submodule update --init --depth 1
 $ hugo new content content/posts/2026/first.md
 ```
 
-- edit this `first.md` file in your favourite editor. once you conplete, then run the following commandline under cloned repository directory
+- Edit this `first.md` file in your favourite editor. once you conplete, then run the following commandline under cloned repository directory
 
 ```
 $ git add content/posts/2026/first.md
