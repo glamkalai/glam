@@ -1,6 +1,5 @@
 +++
-date = '2026-07-14T19:29:00Z'
-title = 'My First Blog Post'
+date = '2026-07-15T21:40:05Z'
+title = 'my first blog post'
 +++
-
-My First Blog Post
+gallery library archive museum
