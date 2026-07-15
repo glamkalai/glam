@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Hugo-Test"
+title = "glamkalai"
 
 [params]
   displayName = "EN"
